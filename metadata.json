@@ -1,0 +1,6 @@
+{
+  "name": "Careplay - 3D AI Beauty Studio",
+  "description": "An elegant 3D animated luxury beauty and aesthetics studio website featuring real-time WebGL floating petals, interactive 3D perspective cards, and Gemini AI beauty consultation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
